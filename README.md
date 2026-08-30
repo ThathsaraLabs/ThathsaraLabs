@@ -1,11 +1,10 @@
-# AI/ML | Biomedical Engineering | Computer Vision | Research Hub 👨‍🔬🤖
+# AI/ML | Computer Vision | Research Hub 👨‍🔬🤖
 
 ## About Me 🙋‍♂️
 
 I am a passionate researcher and Chartered Engineer with strong interests in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Biomedical Engineering, Wearable Sensing, and Smart Healthcare Technologies. I am interested in developing practical engineering and AI-based solutions for healthcare, intelligent sensing, and interdisciplinary research.
 
 - 🔬 I’m currently engaged in research related to **AI/ML, Biomedical Engineering, Computer Vision, Wearable Sensing, and Smart Healthcare**
-- 👨‍🏫 I’m working as a **Final Year Project Supervisor** for BEng Software Engineering / BSc Computer Science at **Informatics Institute of Technology (IIT), Sri Lanka**, in collaboration with the **University of Westminster, UK**
 - 👨‍💻 My Portfolio [https://sites.google.com/view/thathsara/home](https://sites.google.com/view/thathsara/home)
 - 📄 My CV [https://thathsaralabs.github.io/CV/CV_Thathsara.pdf](https://thathsaralabs.github.io/CV/CV_Thathsara.pdf)
 - 📫 How to reach me [**thathsarananayakkara@gmail.com**](mailto:thathsarananayakkara@gmail.com)
@@ -18,18 +17,24 @@ I am a passionate researcher and Chartered Engineer with strong interests in Art
   - Computer Vision
   - AI for Healthcare
 
-- Biomedical Engineering:
-  - Biomedical Signal Processing
-  - Biomedical Image Processing
-  - Wearable Sensor Systems
-  - Smart Insole Systems
-  - Human Gait Analysis
+- IoT & Embedded Systems:
+  - Internet of Things (IoT)
   - Internet of Medical Things (IoMT)
+  - Embedded Systems
+  - Sensor Integration
+  - Microcontrollers
+  - Smart Monitoring Systems
+
+- Electronics:
+  - Electronic Circuit Design
+  - PCB Design
+  - Digital Electronics
+  - Analog Electronics
+  - Instrumentation
+  - Signal Acquisition and Processing
 
 - Software:
-  - Development Environments: Jupyter Notebook, VS Code
   - Languages: Python, MATLAB, C, C++, Java
-  - Tools: Git, GitHub
 
 - Extended Reality:
   - Augmented Reality
